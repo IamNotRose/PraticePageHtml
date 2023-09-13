@@ -1,0 +1,19 @@
+#cinza {
+    color: gray;
+}
+
+.rosa {
+    color: fuchsia;
+}
+
+div {
+    color: yellow;
+}
+
+.rosa em {
+    color: green;
+}
+
+.rosa span {
+    color: indianred;
+}
