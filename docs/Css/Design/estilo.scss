@@ -1,0 +1,23 @@
+$primary-color: green;
+$second-color: lightgray;
+
+body{
+    color: $primary-color;
+    background-color: $second-color;
+}
+
+div {
+    p {
+        font-size: 2em;
+    }
+
+    li {
+        letter-spacing: 5px;
+    }
+
+    span {
+        a {
+            text-decoration: none;
+        }
+    }
+}
